@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Project><Title>CA$HED V2</Title><Author>WiiZARD</Author><Game>MW3</Game><Mode>MP</Mode><Platform>Steam</Platform><Symbols>DEBUG;EXAMPLE</Symbols></Project>
